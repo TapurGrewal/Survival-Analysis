@@ -38,3 +38,6 @@ Survival probability follows the concept of conditional probability, where for a
 
 So to summarize, from the above equation we get:
 S(n)=S(1)∗S(2)∗S(3)∗...∗S(n−1)∗S(n)
+
+Result Interpretation:
+From the graph, it can be seen that the subject 14 has the highest chances of survival and subject 10 has the lowest chances of survival. Looking into the ph.ecog values in the table above, it can be seen that subject 14 has a low ph.ecog value (1.0) compared to subject 10 (3.0).
